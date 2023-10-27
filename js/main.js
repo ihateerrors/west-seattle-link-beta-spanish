@@ -1,6 +1,11 @@
 const urgentBanner = document.getElementById("urgent-banner")
 const closeBtn = document.getElementById("close")
 
+// Closes the Urgent banner
+closeBtn.addEventListener('click', ()=> {
+  urgentBanner.style.display="none"
+})
+
 // function googleTranslateElementInit() {
 //   new google.translate.TranslateElement(
 //     { pageLanguage: "en" },
