@@ -431,7 +431,6 @@ nav.top_nav a.active:before {
   -moz-appearance: none;
   appearance: none;
   border: none;
-
 }
 
 progress::-webkit-progress-bar {
