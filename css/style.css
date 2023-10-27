@@ -773,3 +773,11 @@ a.thumbnail>img {
   color: #2b376e;
 }
 
+.btn {
+  border: 2px solid #d6078e;
+}
+.btn:hover {
+  color: #d6078e;
+  background: #fff !important;
+  border: 2px solid #d6078e;
+}
