@@ -431,6 +431,7 @@ nav.top_nav a.active:before {
   -moz-appearance: none;
   appearance: none;
   border: none;
+
 }
 
 progress::-webkit-progress-bar {
@@ -768,3 +769,8 @@ a.thumbnail>img {
   cursor: pointer;
   text-decoration: underline !important; 
 }
+
+#urgent-banner a {
+  color: #2b376e;
+}
+
