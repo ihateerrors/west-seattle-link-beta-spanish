@@ -775,6 +775,7 @@ a.thumbnail>img {
 
 .btn {
   border: 2px solid #d6078e;
+  border-radius: 5px;
 }
 .btn:hover {
   color: #d6078e;
